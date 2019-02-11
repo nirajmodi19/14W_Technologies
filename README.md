@@ -10,6 +10,8 @@ Assignment of 14W Technologies to discriminate between images whether the given 
 
 **Data** :- VadaPav Images(Positive Image), Not VadaPav Images(Negative Images)
 
+**Accuracy** :- 98.21% in 5 Epochs
+
 
 **Addressing Directories and Files**:-
 
@@ -18,6 +20,8 @@ Assignment of 14W Technologies to discriminate between images whether the given 
 3. ./train.py       :- Python Script to train the model.
 4. ./test.py        :- Python Script to test the model.
 5. ./VadaPav.model  :- Trained Model
+6. ./train.png      :- Screenshot of running train.py showing accuracy and loss in different epochs.
+7. ./test.png       :- Screenshot of running test.py
 
 **Steps to use repositories** :-
 
